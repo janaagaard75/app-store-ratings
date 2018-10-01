@@ -2,9 +2,20 @@
   "name": "itunes-ratings",
   "version": "0.0.0",
   "description": "Fetch and analyse ratings in the iTunes iOS App Store.",
-  "main": "App.ts",
+  "main": "Main.ts",
   "repository": "https://github.com/janaagaard75/itunes-ratings.git",
   "author": "Jan Aagaard <jan@aagaard.net>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "scripts": {
+    "start": "ts-node Main.ts"
+  },
+  "dependencies": {
+    "ts-node": "7.0.1",
+    "typescript": "3.1.1"
+  },
+  "devDependencies": {
+    "tslint": "5.11.0",
+    "tslint-eslint-rules": "5.4.0"
+  }
 }
