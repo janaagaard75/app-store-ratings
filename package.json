@@ -1,0 +1,10 @@
+{
+  "name": "itunes-ratings",
+  "version": "0.0.0",
+  "description": "Fetch and analyse ratings in the iTunes iOS App Store.",
+  "main": "App.ts",
+  "repository": "https://github.com/janaagaard75/itunes-ratings.git",
+  "author": "Jan Aagaard <jan@aagaard.net>",
+  "license": "MIT",
+  "private": false
+}
