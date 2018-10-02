@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "ts-node Main.ts"
+    "start": "yarn install && ts-node Main.ts"
   },
   "dependencies": {
     "ts-node": "7.0.1",
