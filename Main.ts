@@ -45,13 +45,14 @@ class Main {
   private flattern(reviews: Reviews): ReadonlyArray<FlatReview> {
     const mapped = reviews.feed.entry
       .map(entry => {
+        const wrapper = new EntryWrapper(entry)
         return {
           author: entry.author ? entry.author.name.label : "",
           content: entry.content ? entry.content.label : "",
-          date: Main.getDate(entry),
-          rating: Main.getRating(entry),
+          date: wrapper.date,
+          rating: wrapper.rating,
           title: entry.title.label,
-          version: Main.getVersion(entry),
+          version: wrapper.version,
           voteCount: 0,
           voteSum: 0
         }
@@ -59,21 +60,28 @@ class Main {
 
     return mapped
   }
+}
 
-  private static getDate(entry: Entry): Date | undefined {
-    if (entry["im:releaseDate"] === undefined) {
+// tslint:disable-next-line:max-classes-per-file
+class EntryWrapper {
+  constructor(
+    private entry: Entry
+  ) { }
+
+  public get date(): Date | undefined {
+    if (this.entry["im:releaseDate"] === undefined) {
       return undefined
     }
 
-    return new Date((entry["im:releaseDate"] as ReleaseDate).label)
+    return new Date((this.entry["im:releaseDate"] as ReleaseDate).label)
   }
 
-  private static getRating(entry: Entry): number | undefined {
-    if (entry["im:rating"] === undefined) {
+  public get rating(): number | undefined {
+    if (this.entry["im:rating"] === undefined) {
       return undefined
     }
 
-    const rating = parseInt((entry["im:rating"] as Labeled).label, 10)
+    const rating = parseInt((this.entry["im:rating"] as Labeled).label, 10)
     if (Number.isNaN(rating)) {
       return undefined
     }
@@ -81,12 +89,12 @@ class Main {
     return rating
   }
 
-  private static getVersion(entry: Entry): string | undefined {
-    if (entry["im:version"] === undefined) {
+  public get version(): string | undefined {
+    if (this.entry["im:version"] === undefined) {
       return undefined
     }
 
-    return (entry["im:version"] as Labeled).label
+    return (this.entry["im:version"] as Labeled).label
   }
 }
 
