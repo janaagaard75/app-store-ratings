@@ -77,16 +77,7 @@ class EntryWrapper {
   }
 
   public get rating(): number | undefined {
-    if (this.entry["im:rating"] === undefined) {
-      return undefined
-    }
-
-    const rating = Number.parseInt((this.entry["im:rating"] as Labeled).label, 10)
-    if (Number.isNaN(rating)) {
-      return undefined
-    }
-
-    return rating
+    return EntryWrapper.parseLabelAsInteger(this.entry["im:rating"])
   }
 
   public get version(): string | undefined {
@@ -98,16 +89,20 @@ class EntryWrapper {
   }
 
   public get voteCount(): number | undefined {
-    if (this.entry["im:voteCount"] === undefined) {
+    return EntryWrapper.parseLabelAsInteger(this.entry["im:voteCount"])
+  }
+
+  private static parseLabelAsInteger(labeled: Labeled | undefined): number | undefined {
+    if (labeled === undefined) {
       return undefined
     }
 
-    const voteCount = Number.parseInt((this.entry["im:voteCount"] as Labeled).label, 10)
-    if (Number.isNaN(voteCount)) {
+    const parsed = Number.parseInt(labeled.label, 10)
+    if (Number.isNaN(parsed)) {
       return undefined
     }
 
-    return voteCount
+    return parsed
   }
 }
 
