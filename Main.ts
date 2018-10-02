@@ -1,6 +1,6 @@
 import fetch from "node-fetch"
 
-import { Entry } from "./Reviews"
+import { Entry, Label } from "./Reviews"
 import { Labeled } from "./Reviews"
 import { ReleaseDate } from "./Reviews"
 import { Reviews } from "./Reviews"
@@ -12,7 +12,7 @@ interface FlatReview {
   rating: number | undefined
   title: string
   version: string | undefined
-  voteCount: number
+  voteCount: number | undefined
   voteSum: number
 }
 
@@ -53,7 +53,7 @@ class Main {
           rating: wrapper.rating,
           title: entry.title.label,
           version: wrapper.version,
-          voteCount: 0,
+          voteCount: wrapper.voteCount,
           voteSum: 0
         }
       })
@@ -81,7 +81,7 @@ class EntryWrapper {
       return undefined
     }
 
-    const rating = parseInt((this.entry["im:rating"] as Labeled).label, 10)
+    const rating = Number.parseInt((this.entry["im:rating"] as Labeled).label, 10)
     if (Number.isNaN(rating)) {
       return undefined
     }
@@ -95,6 +95,19 @@ class EntryWrapper {
     }
 
     return (this.entry["im:version"] as Labeled).label
+  }
+
+  public get voteCount(): number | undefined {
+    if (this.entry["im:voteCount"] === undefined) {
+      return undefined
+    }
+
+    const voteCount = Number.parseInt((this.entry["im:voteCount"] as Labeled).label, 10)
+    if (Number.isNaN(voteCount)) {
+      return undefined
+    }
+
+    return voteCount
   }
 }
 
