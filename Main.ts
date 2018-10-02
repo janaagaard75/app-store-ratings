@@ -1,5 +1,7 @@
 import fetch from 'node-fetch'
 
+import { Reviews } from './Reviews'
+
 class Main {
   public async start() {
     const reviewsResponse = await fetch('https://itunes.apple.com/dk/rss/customerreviews/id=571242024/sortBy=mostRecent/page=10/limit=200/json')
@@ -9,8 +11,8 @@ class Main {
       return
     }
 
-    const content = await reviewsResponse.text()
-    console.log(content)
+    const reviews = await reviewsResponse.json() as Reviews
+    console.log(reviews)
   }
 }
 
