@@ -1,6 +1,7 @@
 import fetch from "node-fetch"
 
 import { Entry } from "./Reviews"
+import { Labeled } from "./Reviews"
 import { ReleaseDate } from "./Reviews"
 import { Reviews } from "./Reviews"
 
@@ -8,7 +9,7 @@ interface FlatReview {
   author: string
   content: string
   date: Date | undefined
-  rating: number
+  rating: number | undefined
   title: string
   version: string
   voteCount: number
@@ -48,7 +49,7 @@ class Main {
           author: entry.author ? entry.author.name.label : "",
           content: entry.content ? entry.content.label : "",
           date: Main.getDate(entry),
-          rating: 0,
+          rating: Main.getRating(entry),
           title: "",
           version: "",
           voteCount: 0,
@@ -65,6 +66,19 @@ class Main {
     }
 
     return new Date((entry["im:releaseDate"] as ReleaseDate).label)
+  }
+
+  private static getRating(entry: Entry): number | undefined {
+    if (entry["im:rating"] === undefined) {
+      return undefined
+    }
+
+    const rating = parseInt((entry["im:rating"] as Labeled).label, 10)
+    if (Number.isNaN(rating)) {
+      return undefined
+    }
+
+    return rating
   }
 }
 

@@ -17,46 +17,46 @@ export interface Reviews {
 export interface Feed {
   author: FeedAuthor
   entry: Array<Entry>
-  updated: Icon
-  rights: Icon
-  title: Icon
-  icon: Icon
+  updated: Labeled
+  rights: Labeled
+  title: Labeled
+  icon: Labeled
   link: Array<Link>
-  id: Icon
+  id: Labeled
 }
 
 export interface FeedAuthor {
-  name: Icon
-  uri: Icon
+  name: Labeled
+  uri: Labeled
 }
 
-export interface Icon {
+export interface Labeled {
   label: string
 }
 
 export interface Entry {
-  "im:name"?: Icon
-  rights?: Icon
+  "im:name"?: Labeled
+  rights?: Labeled
   "im:price"?: Price
   "im:image"?: Array<Image>
   "im:artist"?: Artist
-  title: Icon
+  title: Labeled
   link: Link
   id: Id
   "im:contentType": ContentType
   category?: Category
   "im:releaseDate"?: ReleaseDate
   author?: EntryAuthor
-  "im:version"?: Icon
-  "im:rating"?: Icon
+  "im:version"?: Labeled
+  "im:rating"?: Labeled
   content?: Content
-  "im:voteSum"?: Icon
-  "im:voteCount"?: Icon
+  "im:voteSum"?: Labeled
+  "im:voteCount"?: Labeled
 }
 
 export interface EntryAuthor {
-  uri: Icon
-  name: Icon
+  uri: Labeled
+  name: Labeled
   label: string
 }
 
@@ -132,7 +132,7 @@ export interface PriceAttributes {
 
 export interface ReleaseDate {
   label: string
-  attributes: Icon
+  attributes: Labeled
 }
 
 export interface Link {
