@@ -35,23 +35,23 @@ export interface Icon {
 }
 
 export interface Entry {
-  'im:name'?: Icon
+  "im:name"?: Icon
   rights?: Icon
-  'im:price'?: Price
-  'im:image'?: Array<Image>
-  'im:artist'?: Artist
+  "im:price"?: Price
+  "im:image"?: Array<Image>
+  "im:artist"?: Artist
   title: Icon
   link: Link
   id: Id
-  'im:contentType': ContentType
+  "im:contentType": ContentType
   category?: Category
-  'im:releaseDate'?: ReleaseDate
+  "im:releaseDate"?: ReleaseDate
   author?: EntryAuthor
-  'im:version'?: Icon
-  'im:rating'?: Icon
+  "im:version"?: Icon
+  "im:rating"?: Icon
   content?: Content
-  'im:voteSum'?: Icon
-  'im:voteCount'?: Icon
+  "im:voteSum"?: Icon
+  "im:voteCount"?: Icon
 }
 
 export interface EntryAuthor {
@@ -65,7 +65,7 @@ export interface Category {
 }
 
 export interface CategoryAttributes {
-  'im:id': string
+  "im:id": string
   term: string
   scheme: string
   label: string
@@ -81,7 +81,7 @@ export interface ContentAttributes {
 }
 
 export enum Type {
-  Text = 'text'
+  Text = "text"
 }
 
 export interface Id {
@@ -108,7 +108,7 @@ export interface ContentTypeAttributes {
 }
 
 export enum Label {
-  Application = 'Application'
+  Application = "Application"
 }
 
 export interface Image {
@@ -146,11 +146,11 @@ export interface LinkAttributes {
 }
 
 export enum Rel {
-  Alternate = 'alternate',
-  First = 'first',
-  Last = 'last',
-  Next = 'next',
-  Previous = 'previous',
-  Related = 'related',
-  Self = 'self'
+  Alternate = "alternate",
+  First = "first",
+  Last = "last",
+  Next = "next",
+  Previous = "previous",
+  Related = "related",
+  Self = "self"
 }

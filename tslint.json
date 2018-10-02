@@ -44,7 +44,7 @@
     "prefer-conditional-expression": false,
     "quotemark": [
       true,
-      "single"
+      "double"
     ],
     "semicolon": [
       true,

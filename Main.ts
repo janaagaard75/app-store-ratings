@@ -1,8 +1,8 @@
-import fetch from 'node-fetch'
+import fetch from "node-fetch"
 
-import { Entry } from './Reviews'
-import { ReleaseDate } from './Reviews'
-import { Reviews } from './Reviews'
+import { Entry } from "./Reviews"
+import { ReleaseDate } from "./Reviews"
+import { Reviews } from "./Reviews"
 
 interface FlatReview {
   author: string
@@ -17,11 +17,11 @@ interface FlatReview {
 
 type Page = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 
-type SortBy = 'mostHelpful' | 'mostRecent'
+type SortBy = "mostHelpful" | "mostRecent"
 
 class Main {
   public async start() {
-    const reviews = await this.fetchReviews(571242024, 'mostRecent', 1)
+    const reviews = await this.fetchReviews(571242024, "mostRecent", 1)
     console.log(`Number of reviews: ${reviews.feed.entry.length}.`)
   }
 
@@ -45,12 +45,12 @@ class Main {
     const mapped = reviews.feed.entry
       .map(entry => {
         return {
-          author: entry.author ? entry.author.name.label : '',
-          content: entry.content ? entry.content.label : '',
+          author: entry.author ? entry.author.name.label : "",
+          content: entry.content ? entry.content.label : "",
           date: Main.getDate(entry),
           rating: 0,
-          title: '',
-          version: '',
+          title: "",
+          version: "",
           voteCount: 0,
           voteSum: 0
         }
@@ -60,11 +60,11 @@ class Main {
   }
 
   private static getDate(entry: Entry): Date | undefined {
-    if (entry['im:releaseDate'] === undefined) {
+    if (entry["im:releaseDate"] === undefined) {
       return undefined
     }
 
-    return new Date((entry['im:releaseDate'] as ReleaseDate).label)
+    return new Date((entry["im:releaseDate"] as ReleaseDate).label)
   }
 }
 
