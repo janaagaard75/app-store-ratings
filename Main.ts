@@ -11,7 +11,7 @@ interface FlatReview {
   date: Date | undefined
   rating: number | undefined
   title: string
-  version: string
+  version: string | undefined
   voteCount: number
   voteSum: number
 }
@@ -50,8 +50,8 @@ class Main {
           content: entry.content ? entry.content.label : "",
           date: Main.getDate(entry),
           rating: Main.getRating(entry),
-          title: "",
-          version: "",
+          title: entry.title.label,
+          version: Main.getVersion(entry),
           voteCount: 0,
           voteSum: 0
         }
@@ -79,6 +79,14 @@ class Main {
     }
 
     return rating
+  }
+
+  private static getVersion(entry: Entry): string | undefined {
+    if (entry["im:version"] === undefined) {
+      return undefined
+    }
+
+    return (entry["im:version"] as Labeled).label
   }
 }
 
