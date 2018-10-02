@@ -2,17 +2,29 @@ import fetch from 'node-fetch'
 
 import { Reviews } from './Reviews'
 
+type Page = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+type SortBy = 'mostHelpful' | 'mostRecent'
+
 class Main {
   public async start() {
-    const reviewsResponse = await fetch('https://itunes.apple.com/dk/rss/customerreviews/id=571242024/sortBy=mostRecent/page=10/limit=200/json')
+    const reviews = await this.fetchReviews(571242024, 'mostRecent', 1)
+    console.log(`Number of reviews: ${reviews.feed.entry.length}.`)
+  }
+
+  private async fetchReviews(
+    appId: number,
+    sortBy: SortBy,
+    pageNumber: Page
+  ): Promise<Reviews> {
+    const reviewsUrl = `https://itunes.apple.com/dk/rss/customerreviews/id=${appId}/sortBy=${sortBy}/page=${pageNumber}/json`
+    const reviewsResponse = await fetch(reviewsUrl)
 
     if (reviewsResponse.status !== 200) {
-      console.error(`Error. Returned code: ${reviewsResponse.status}.`)
-      return
+      throw new Error(`Error, exiting. Returned code: ${reviewsResponse.status}.`)
     }
 
     const reviews = await reviewsResponse.json() as Reviews
-    console.log(reviews)
+    return reviews
   }
 }
 
