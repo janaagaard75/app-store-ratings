@@ -23,7 +23,9 @@ type SortBy = "mostHelpful" | "mostRecent"
 class Main {
   public async start() {
     const reviews = await this.fetchReviews(571242024, "mostRecent", 1)
-    console.log(`Number of reviews: ${reviews.feed.entry.length}.`)
+    console.info(`Number of reviews: ${reviews.feed.entry.length}.`)
+    const flatReviews = this.flattern(reviews)
+    console.info(`Number of flat reviews: ${flatReviews.length}.`)
   }
 
   private async fetchReviews(
