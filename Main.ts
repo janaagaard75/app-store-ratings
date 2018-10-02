@@ -43,30 +43,32 @@ class Main {
   }
 
   private flattern(reviews: Reviews): ReadonlyArray<FlatReview> {
-    const mapped = reviews.feed.entry
-      .map(entry => {
-        const wrapper = new EntryWrapper(entry)
-        return {
-          author: entry.author ? entry.author.name.label : "",
-          content: entry.content ? entry.content.label : "",
-          date: wrapper.date,
-          rating: wrapper.rating,
-          title: entry.title.label,
-          version: wrapper.version,
-          voteCount: wrapper.voteCount,
-          voteSum: wrapper.voteSum
-        }
-      })
-
-    return mapped
+    return reviews.feed.entry
+      .map(entry => new EntryWrapper(entry))
   }
 }
 
 // tslint:disable-next-line:max-classes-per-file
-class EntryWrapper {
+class EntryWrapper implements FlatReview {
   constructor(
     private entry: Entry
   ) { }
+
+  public get author(): string {
+    if (this.entry.author === undefined) {
+      return ""
+    }
+
+    return this.entry.author.name.label
+  }
+
+  public get content(): string {
+    if (this.entry.content === undefined) {
+      return ""
+    }
+
+    return this.entry.content.label
+  }
 
   public get date(): Date | undefined {
     if (this.entry["im:releaseDate"] === undefined) {
@@ -74,6 +76,10 @@ class EntryWrapper {
     }
 
     return new Date((this.entry["im:releaseDate"] as ReleaseDate).label)
+  }
+
+  public get title(): string {
+    return this.entry.title.label
   }
 
   public get rating(): number | undefined {
