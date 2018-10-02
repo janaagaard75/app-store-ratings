@@ -13,7 +13,7 @@ interface FlatReview {
   title: string
   version: string | undefined
   voteCount: number | undefined
-  voteSum: number
+  voteSum: number | undefined
 }
 
 type Page = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
@@ -54,7 +54,7 @@ class Main {
           title: entry.title.label,
           version: wrapper.version,
           voteCount: wrapper.voteCount,
-          voteSum: 0
+          voteSum: wrapper.voteSum
         }
       })
 
@@ -90,6 +90,10 @@ class EntryWrapper {
 
   public get voteCount(): number | undefined {
     return EntryWrapper.parseLabelAsInteger(this.entry["im:voteCount"])
+  }
+
+  public get voteSum(): number | undefined {
+    return EntryWrapper.parseLabelAsInteger(this.entry["im:voteSum"])
   }
 
   private static parseLabelAsInteger(labeled: Labeled | undefined): number | undefined {
