@@ -32,12 +32,16 @@ export class EntryWrapper implements FlatReview {
     return new Date((this.entry["im:releaseDate"] as ReleaseDate).label)
   }
 
-  public get title(): string {
-    return this.entry.title.label
+  public get id(): string {
+    return this.entry.id.label
   }
 
   public get rating(): number | undefined {
     return EntryWrapper.parseLabelAsInteger(this.entry["im:rating"])
+  }
+
+  public get title(): string {
+    return this.entry.title.label
   }
 
   public get version(): string | undefined {
@@ -58,10 +62,12 @@ export class EntryWrapper implements FlatReview {
 
   public get csvLine(): string {
     const values = [
+      this.id,
       this.date,
       this.rating,
       this.title,
       this.content,
+      this.author,
       this.voteCount,
       this.voteSum
     ]
