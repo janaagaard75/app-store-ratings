@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "yarn install && ts-node Main.ts"
+    "start": "yarn install && ts-node src/Main.ts"
   },
   "dependencies": {
     "node-fetch": "2.2.0",
