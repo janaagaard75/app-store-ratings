@@ -14,6 +14,9 @@ class Main {
     console.info(`Number of reviews: ${reviews.feed.entry.length}.`)
     const flatReviews = this.flattern(reviews)
     console.info(`Number of flat reviews: ${flatReviews.length}.`)
+
+    const csv = flatReviews.map(review => review.csvLine).join("\n")
+    console.info(csv)
   }
 
   private async fetchReviews(
@@ -32,7 +35,7 @@ class Main {
     return reviews
   }
 
-  private flattern(reviews: Reviews): ReadonlyArray<FlatReview> {
+  private flattern(reviews: Reviews): ReadonlyArray<EntryWrapper> {
     return reviews.feed.entry
       .map(entry => new EntryWrapper(entry))
   }

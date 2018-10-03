@@ -65,14 +65,14 @@ export class EntryWrapper implements FlatReview {
       this.id,
       this.date,
       this.rating,
-      this.title,
-      this.content,
-      this.author,
+      `"${this.title.replace("\n", "\\n").replace("\"", "")}"`,
+      `"${this.content.replace("\n", "\\n").replace("\"", "")}"`,
+      `"${this.author.replace("\n", "\\n").replace("\"", "")}"`,
       this.voteCount,
       this.voteSum
     ]
 
-    const line = values.join(",")
+    const line = values.join(", ")
     return line
   }
 
