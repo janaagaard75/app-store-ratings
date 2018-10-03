@@ -56,6 +56,20 @@ export class EntryWrapper implements FlatReview {
     return EntryWrapper.parseLabelAsInteger(this.entry["im:voteSum"])
   }
 
+  public get csvLine(): string {
+    const values = [
+      this.date,
+      this.rating,
+      this.title,
+      this.content,
+      this.voteCount,
+      this.voteSum
+    ]
+
+    const line = values.join(",")
+    return line
+  }
+
   private static parseLabelAsInteger(labeled: Labeled | undefined): number | undefined {
     if (labeled === undefined) {
       return undefined
