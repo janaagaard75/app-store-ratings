@@ -1,9 +1,8 @@
 import { Entry } from "./Reviews"
-import { FlatReview } from "./FlatReview"
 import { Labeled } from "./Reviews"
 import { ReleaseDate } from "./Reviews"
 
-export class EntryWrapper implements FlatReview {
+export class EntryWrapper {
   constructor(
     private entry: Entry
   ) { }
