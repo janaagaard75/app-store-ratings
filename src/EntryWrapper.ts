@@ -49,7 +49,7 @@ export class EntryWrapper {
       this.voteCount,
       this.voteSum,
       this.version,
-      this.title,
+      EntryWrapper.encodeString(this.title),
       EntryWrapper.encodeString(this.content),
       EntryWrapper.encodeString(this.author)
     ]
@@ -59,6 +59,8 @@ export class EntryWrapper {
   }
 
   private static encodeString(value: string): string {
-    return value.replace("\r", "").replace("\n", "").replace("\"", "").replace(",", "")
+    return value
+      .replace(/(\r\n|\r|\n)/g, " ")
+      .replace(/[",]/g, "")
   }
 }
