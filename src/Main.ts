@@ -1,7 +1,7 @@
 import fetch from "node-fetch"
 
+import { Entry } from "./Reviews"
 import { EntryWrapper } from "./EntryWrapper"
-import { FlatReview } from "./FlatReview"
 import { Reviews } from "./Reviews"
 
 type Page = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
@@ -11,9 +11,9 @@ type SortBy = "mostHelpful" | "mostRecent"
 class Main {
   public async start() {
     const reviews = await this.fetchReviews(571242024, "mostRecent", 1)
-    const flatReviews = this.flattern(reviews)
+    const flatReviews = this.flattern(reviews.feed.entry.splice(1))
     const csv = flatReviews.map(review => review.csvLine).join("\n")
-    console.info(csv)
+    console.info(`\n${csv}`)
   }
 
   private async fetchReviews(
@@ -32,9 +32,8 @@ class Main {
     return reviews
   }
 
-  private flattern(reviews: Reviews): ReadonlyArray<EntryWrapper> {
-    return reviews.feed.entry
-      .map(entry => new EntryWrapper(entry))
+  private flattern(entries: Array<Entry>): ReadonlyArray<EntryWrapper> {
+    return entries.map(entry => new EntryWrapper(entry))
   }
 }
 
