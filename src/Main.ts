@@ -11,10 +11,7 @@ type SortBy = "mostHelpful" | "mostRecent"
 class Main {
   public async start() {
     const reviews = await this.fetchReviews(571242024, "mostRecent", 1)
-    console.info(`Number of reviews: ${reviews.feed.entry.length}.`)
     const flatReviews = this.flattern(reviews)
-    console.info(`Number of flat reviews: ${flatReviews.length}.`)
-
     const csv = flatReviews.map(review => review.csvLine).join("\n")
     console.info(csv)
   }
