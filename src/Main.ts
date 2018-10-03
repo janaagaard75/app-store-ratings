@@ -11,7 +11,8 @@ type SortBy = "mostHelpful" | "mostRecent"
 
 class Main {
   public async start() {
-    const xmlReviews = await this.fetchReviews(571242024, "mostRecent", 1)
+    const nordeaMobileBankAppId = 571242024
+    const xmlReviews = await this.fetchReviews(nordeaMobileBankAppId, "mostRecent", 1)
     const parsedReviews = this.flattern(xmlReviews.feed.entry)
     console.log(`Reviews: ${xmlReviews.feed.entry.length}, ${parsedReviews.length}`)
     const csv = parsedReviews.map(review => review.csvLine).join("\n")
