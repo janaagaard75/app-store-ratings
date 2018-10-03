@@ -1,0 +1,3225 @@
+{
+  "feed": {
+    "$": {
+      "xmlns:im": "http://itunes.apple.com/rss",
+      "xmlns": "http://www.w3.org/2005/Atom",
+      "xml:lang": "en"
+    },
+    "id": [
+      "https://itunes.apple.com/dk/rss/customerreviews/id=571242024/sortBy=mostRecent/page=1/xml"
+    ],
+    "title": [
+      "iTunes Store: Customer Reviews"
+    ],
+    "updated": [
+      "2018-10-03T12:26:57-07:00"
+    ],
+    "link": [
+      {
+        "$": {
+          "rel": "alternate",
+          "type": "text/html",
+          "href": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=dk&id=29765"
+        }
+      },
+      {
+        "$": {
+          "rel": "self",
+          "href": "https://itunes.apple.com/dk/rss/customerreviews/id=571242024/sortBy=mostRecent/page=1/xml"
+        }
+      },
+      {
+        "$": {
+          "rel": "first",
+          "href": "https://itunes.apple.com/dk/rss/customerreviews/page=1/id=571242024/sortby=mostrecent/xml?urlDesc=/customerreviews/id=571242024/sortBy=mostRecent/page=1/xml"
+        }
+      },
+      {
+        "$": {
+          "rel": "last",
+          "href": "https://itunes.apple.com/dk/rss/customerreviews/page=10/id=571242024/sortby=mostrecent/xml?urlDesc=/customerreviews/id=571242024/sortBy=mostRecent/page=1/xml"
+        }
+      },
+      {
+        "$": {
+          "rel": "previous",
+          "href": "https://itunes.apple.com/dk/rss/customerreviews/page=1/id=571242024/sortby=mostrecent/xml?urlDesc=/customerreviews/id=571242024/sortBy=mostRecent/page=1/xml"
+        }
+      },
+      {
+        "$": {
+          "rel": "next",
+          "href": "https://itunes.apple.com/dk/rss/customerreviews/page=2/id=571242024/sortby=mostrecent/xml?urlDesc=/customerreviews/id=571242024/sortBy=mostRecent/page=1/xml"
+        }
+      }
+    ],
+    "icon": [
+      "http://itunes.apple.com/favicon.ico"
+    ],
+    "author": [
+      {
+        "name": [
+          "iTunes Store"
+        ],
+        "uri": [
+          "http://www.apple.com/uk/itunes/"
+        ]
+      }
+    ],
+    "rights": [
+      "Copyright 2008 Apple Inc."
+    ],
+    "entry": [
+      {
+        "updated": [
+          "2018-10-02T10:46:12-07:00"
+        ],
+        "id": [
+          "3256212126"
+        ],
+        "title": [
+          "Herlig"
+        ],
+        "content": [
+          {
+            "_": "Det er nemt",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Herlig</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Det er nemt</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "5"
+        ],
+        "im:version": [
+          "2.3.2"
+        ],
+        "author": [
+          {
+            "name": [
+              "1neets"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id35076443"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-10-01T23:14:39-07:00"
+        ],
+        "id": [
+          "3254330250"
+        ],
+        "title": [
+          "Super dårlig app"
+        ],
+        "content": [
+          {
+            "_": "Man kan ikke skifte mellem apps uden at den giver teknisk fejl. Man kan ikke sende beskeder til banken uden at skifte app til “nem” ID appen.\nDvs, ubrugelig som altid.",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Super dårlig app</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Man kan ikke skifte mellem apps uden at den giver teknisk fejl. Man kan ikke sende beskeder til banken uden at skifte app til “nem” ID appen.<br/>Dvs, ubrugelig som altid.</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "1"
+        ],
+        "im:version": [
+          "2.3.2"
+        ],
+        "author": [
+          {
+            "name": [
+              "Super4217"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id22364542"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-09-30T11:13:36-07:00"
+        ],
+        "id": [
+          "3248729624"
+        ],
+        "title": [
+          "Mest ustabile app"
+        ],
+        "content": [
+          {
+            "_": "Har aldrig oplevet en app, der så ofte ikke fungere pga teknisk fejl.",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Mest ustabile app</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Har aldrig oplevet en app, der så ofte ikke fungere pga teknisk fejl.</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "1"
+        ],
+        "im:version": [
+          "2.3.2"
+        ],
+        "author": [
+          {
+            "name": [
+              "Kc-89"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id211891644"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-09-29T04:48:02-07:00"
+        ],
+        "id": [
+          "3243400024"
+        ],
+        "title": [
+          "Hurtig betaling"
+        ],
+        "content": [
+          {
+            "_": "Tak for en hurtig nem betaling . Hilsen Nawal",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Hurtig betaling</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Tak for en hurtig nem betaling . Hilsen Nawal</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "5"
+        ],
+        "im:version": [
+          "2.3.1"
+        ],
+        "author": [
+          {
+            "name": [
+              "tolk nawal"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id295620618"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-09-26T04:18:34-07:00"
+        ],
+        "id": [
+          "3231832187"
+        ],
+        "title": [
+          "Alt for mange fejl"
+        ],
+        "content": [
+          {
+            "_": "Det er alt for tit at der meldes systemfejl, hvor man så ikke kan få adgang til banken.",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Alt for mange fejl</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Det er alt for tit at der meldes systemfejl, hvor man så ikke kan få adgang til banken.</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "1"
+        ],
+        "im:version": [
+          "2.3.1"
+        ],
+        "author": [
+          {
+            "name": [
+              "MADDOLLA"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id106952552"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-09-25T06:20:04-07:00"
+        ],
+        "id": [
+          "3228593681"
+        ],
+        "title": [
+          "ved lock in..."
+        ],
+        "content": [
+          {
+            "_": "Hvor er det irriterende at skulle locke in via NEM-ID, når der arbejdes på iPad’en.\nVi er i 2018 og funktionen Finger-Touch-ID er opfundet....og det virker med iPhone, så hvorfor ikke på iPad ?",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">ved lock in...</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Hvor er det irriterende at skulle locke in via NEM-ID, når der arbejdes på iPad’en.<br/>Vi er i 2018 og funktionen Finger-Touch-ID er opfundet....og det virker med iPhone, så hvorfor ikke på iPad ?</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "2"
+        ],
+        "im:version": [
+          "2.3.1"
+        ],
+        "author": [
+          {
+            "name": [
+              "DK'er"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id204931937"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-09-25T05:46:58-07:00"
+        ],
+        "id": [
+          "3228491504"
+        ],
+        "title": [
+          "Nordea handler hurtigt"
+        ],
+        "content": [
+          {
+            "_": "Telefonopkald Nordea giver hurtigt og effektivt gevinst uden omveje. Dette er en fordel, for alle ikke brugere af IT",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Nordea handler hurtigt</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Telefonopkald Nordea giver hurtigt og effektivt gevinst uden omveje. Dette er en fordel, for alle ikke brugere af IT</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "5"
+        ],
+        "im:version": [
+          "2.3.1"
+        ],
+        "author": [
+          {
+            "name": [
+              "vonjanesdesign"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id732912547"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-09-25T00:51:29-07:00"
+        ],
+        "id": [
+          "3227661308"
+        ],
+        "title": [
+          "Super convenient"
+        ],
+        "content": [
+          {
+            "_": "Still basic, but it’s easy to use.",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Super convenient</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Still basic, but it’s easy to use.</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "5"
+        ],
+        "im:version": [
+          "2.3.1"
+        ],
+        "author": [
+          {
+            "name": [
+              "Nteulon"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id164456261"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-09-23T13:36:45-07:00"
+        ],
+        "id": [
+          "3222615318"
+        ],
+        "title": [
+          "ingen touch id på nyere iPad"
+        ],
+        "content": [
+          {
+            "_": "What is the difference between one iPhone and iPad when both have touch-id built in? No difference actually but I still cannot use my finger to log on iPad. I don't understand why update: after developer answered for this review last year I’m still waiting for the Touch ID feature. Edit: a year after and nothing happens",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">ingen touch id på nyere iPad</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>What is the difference between one iPhone and iPad when both have touch-id built in? No difference actually but I still cannot use my finger to log on iPad. I don&#39;t understand why update: after developer answered for this review last year I’m still waiting for the Touch ID feature. Edit: a year after and nothing happens</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "1"
+        ],
+        "im:version": [
+          "2.3.1"
+        ],
+        "author": [
+          {
+            "name": [
+              "denmarkguy"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id34373177"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-09-23T02:01:33-07:00"
+        ],
+        "id": [
+          "3220567156"
+        ],
+        "title": [
+          "Fint men kan blive bedre"
+        ],
+        "content": [
+          {
+            "_": "Jeg synes at i fremtiden skal i arbejde mere for at nå det niveau som andre online betalinger har nået. Fx. Hvis man betaler med mobilepay lige meget hvor/hvordan osv. Får man en kvittering på selve mobilepay appen og det synes jeg er super smart hvis man glemmer at bede om en kvittering fra buttiken. Så jeg synes at i skal lave noget aftale med nets, og bygge en app hvor man samler alle kvitteringer hvis man har nordea kort og appen. Det kan sagtens laves, men om i vil gøre det eller ej er noget andet.",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Fint men kan blive bedre</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Jeg synes at i fremtiden skal i arbejde mere for at nå det niveau som andre online betalinger har nået. Fx. Hvis man betaler med mobilepay lige meget hvor/hvordan osv. Får man en kvittering på selve mobilepay appen og det synes jeg er super smart hvis man glemmer at bede om en kvittering fra buttiken. Så jeg synes at i skal lave noget aftale med nets, og bygge en app hvor man samler alle kvitteringer hvis man har nordea kort og appen. Det kan sagtens laves, men om i vil gøre det eller ej er noget andet.</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "3"
+        ],
+        "im:version": [
+          "2.3.1"
+        ],
+        "author": [
+          {
+            "name": [
+              "carnews"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id642871001"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-09-20T06:09:10-07:00"
+        ],
+        "id": [
+          "3210035467"
+        ],
+        "title": [
+          "Dårlig app"
+        ],
+        "content": [
+          {
+            "_": "Im so sorry guys, men appen er så elendig på så mange punkter. Nedenfor er nogle få eksempler;\n1. Man kan ikke fjerne/gemme ens fremtidige betalinger når man kommer ind på sin kontooversigt, det er sygt irriterende da man får et kæmpe chok over at være så meget i minus, indtil man opdater de bare er ens faste udgifter som først skal betales næste første. De faste udgifter som man betaler hver evig eneste måned og som sjovt nok ikke er en overraskelse.\n2. Har skrevet dette før: man kan ikke se hvad kontoens balance var mellem beløb, det er sygt frustrerende. Konto oversigten viser i virkeligheden kun hvad der går ind og ud, men ikke hvad de beløb gør ved den totale balance, efter/mellem hver aktivitet. \n3 man kan ikke trykke på de individuelle bevægelser på kontoen os se hvad de er? Det er man nødt til at ligge ind på netbank for at se, hvad er så meningen med appen hvis man alligevel skal på en computer?",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Dårlig app</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Im so sorry guys, men appen er så elendig på så mange punkter. Nedenfor er nogle få eksempler;<br/>1. Man kan ikke fjerne/gemme ens fremtidige betalinger når man kommer ind på sin kontooversigt, det er sygt irriterende da man får et kæmpe chok over at være så meget i minus, indtil man opdater de bare er ens faste udgifter som først skal betales næste første. De faste udgifter som man betaler hver evig eneste måned og som sjovt nok ikke er en overraskelse.<br/>2. Har skrevet dette før: man kan ikke se hvad kontoens balance var mellem beløb, det er sygt frustrerende. Konto oversigten viser i virkeligheden kun hvad der går ind og ud, men ikke hvad de beløb gør ved den totale balance, efter/mellem hver aktivitet. <br/>3 man kan ikke trykke på de individuelle bevægelser på kontoen os se hvad de er? Det er man nødt til at ligge ind på netbank for at se, hvad er så meningen med appen hvis man alligevel skal på en computer?</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "1"
+        ],
+        "im:version": [
+          "2.3.1"
+        ],
+        "author": [
+          {
+            "name": [
+              "Ninavle"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id204719411"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-09-19T21:30:21-07:00"
+        ],
+        "id": [
+          "3208625664"
+        ],
+        "title": [
+          "Ikke god nok"
+        ],
+        "content": [
+          {
+            "_": "For ustabil\nOfte problemer med login",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Ikke god nok</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>For ustabil<br/>Ofte problemer med login</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "3"
+        ],
+        "im:version": [
+          "2.3.1"
+        ],
+        "author": [
+          {
+            "name": [
+              "bivka"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id134836759"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-09-17T12:15:42-07:00"
+        ],
+        "id": [
+          "3200461832"
+        ],
+        "title": [
+          "Fin mobilbank, men med plads til forbedringer"
+        ],
+        "content": [
+          {
+            "_": "Overordnet er jeg tilfreds med mobilbanken, og i øvrigt super fed feature i har fået med i den seneste opdatering (se kode(r) til kort)\n\nNoget jeg savner (er ikke alene om det), som de fleste andre banker har, er forbrugsoverblik (kategorisering af posteringer grafisk) - udemærket klar over det er muligt på Jeres Wallet app, men burde også være en mulighed på mobilbanken.\n\nKan se at den finske Nordea har den opdateret mobilbank, som jeg efterspørger :)",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Fin mobilbank, men med plads til forbedringer</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Overordnet er jeg tilfreds med mobilbanken, og i øvrigt super fed feature i har fået med i den seneste opdatering (se kode(r) til kort)<br/><br/>Noget jeg savner (er ikke alene om det), som de fleste andre banker har, er forbrugsoverblik (kategorisering af posteringer grafisk) - udemærket klar over det er muligt på Jeres Wallet app, men burde også være en mulighed på mobilbanken.<br/><br/>Kan se at den finske Nordea har den opdateret mobilbank, som jeg efterspørger :)</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "4"
+        ],
+        "im:version": [
+          "2.3.1"
+        ],
+        "author": [
+          {
+            "name": [
+              "Mark V H"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id665340666"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-09-17T10:38:49-07:00"
+        ],
+        "id": [
+          "3200267009"
+        ],
+        "title": [
+          "Nordea"
+        ],
+        "content": [
+          {
+            "_": "Dårligt design\nIkke særlig brugervenlig",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Nordea</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Dårligt design<br/>Ikke særlig brugervenlig</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "2"
+        ],
+        "im:version": [
+          "2.3.1"
+        ],
+        "author": [
+          {
+            "name": [
+              "KareDup"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id155956558"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-09-06T09:31:49-07:00"
+        ],
+        "id": [
+          "3160435301"
+        ],
+        "title": [
+          "Hurtigt og nemt"
+        ],
+        "content": [
+          {
+            "_": "Kan godt lig at det går så hurigt at komme en",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Hurtigt og nemt</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Kan godt lig at det går så hurigt at komme en</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "5"
+        ],
+        "im:version": [
+          "2.3.0"
+        ],
+        "author": [
+          {
+            "name": [
+              "124467743"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id418666220"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-09-06T01:39:16-07:00"
+        ],
+        "id": [
+          "3158920713"
+        ],
+        "title": [
+          "Søgning"
+        ],
+        "content": [
+          {
+            "_": "Man skal kunne søge i sine posteringer?",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Søgning</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Man skal kunne søge i sine posteringer?</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "3"
+        ],
+        "im:version": [
+          "2.3.0"
+        ],
+        "author": [
+          {
+            "name": [
+              "Lillelund Boisen"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id212946202"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-09-04T23:59:49-07:00"
+        ],
+        "id": [
+          "3154939077"
+        ],
+        "title": [
+          "Mangler så meget !!!"
+        ],
+        "content": [
+          {
+            "_": "Virkelig dårlig netbank. Kun nem når du skal overfør mellem dine egne konti. \nDe burde tage at få noget hjælp til at opgradere den. \nHvorfor ikke skrive hvad der stå tilbage på konto når fremtidig betalinger er betalt. Der bare en af manglerne.",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Mangler så meget !!!</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Virkelig dårlig netbank. Kun nem når du skal overfør mellem dine egne konti. <br/>De burde tage at få noget hjælp til at opgradere den. <br/>Hvorfor ikke skrive hvad der stå tilbage på konto når fremtidig betalinger er betalt. Der bare en af manglerne.</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "1"
+        ],
+        "im:version": [
+          "2.3.0"
+        ],
+        "author": [
+          {
+            "name": [
+              "MLeonora"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id232604456"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-09-04T03:00:18-07:00"
+        ],
+        "id": [
+          "3151775042"
+        ],
+        "title": [
+          "For Dyrt"
+        ],
+        "content": [
+          {
+            "_": "Det er simpelthen for dyrt at gennemfører betalinger gennem Netbank !!!",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">For Dyrt</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Det er simpelthen for dyrt at gennemfører betalinger gennem Netbank !!!</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "1"
+        ],
+        "im:version": [
+          "2.3.0"
+        ],
+        "author": [
+          {
+            "name": [
+              "Max DK.dk"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id367402517"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-09-04T02:10:05-07:00"
+        ],
+        "id": [
+          "3151607410"
+        ],
+        "title": [
+          "Anmeldelse"
+        ],
+        "content": [
+          {
+            "_": "Virker meget godt, synes dog ofte jeres platform/netbank er nede.",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Anmeldelse</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Virker meget godt, synes dog ofte jeres platform/netbank er nede.</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "3"
+        ],
+        "im:version": [
+          "2.3.0"
+        ],
+        "author": [
+          {
+            "name": [
+              "Christian_arsenal92"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id117439039"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-09-03T10:39:26-07:00"
+        ],
+        "id": [
+          "3149411822"
+        ],
+        "title": [
+          "God app"
+        ],
+        "content": [
+          {
+            "_": "Bedste bank i Danmark :)",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">God app</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Bedste bank i Danmark :)</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "5"
+        ],
+        "im:version": [
+          "2.3.0"
+        ],
+        "author": [
+          {
+            "name": [
+              "david edmond"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id144816542"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-09-02T20:23:50-07:00"
+        ],
+        "id": [
+          "3146938321"
+        ],
+        "title": [
+          "Bedømmelse"
+        ],
+        "content": [
+          {
+            "_": "Helt ok.",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Bedømmelse</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Helt ok.</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "5"
+        ],
+        "im:version": [
+          "2.3.0"
+        ],
+        "author": [
+          {
+            "name": [
+              "hans_23_olsen"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id898922198"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-31T03:02:35-07:00"
+        ],
+        "id": [
+          "3136492804"
+        ],
+        "title": [
+          "Why NOT"
+        ],
+        "content": [
+          {
+            "_": "Tnx for information and Working hard to tje People’s",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Why NOT</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Tnx for information and Working hard to tje People’s</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "3"
+        ],
+        "im:version": [
+          "2.3.0"
+        ],
+        "author": [
+          {
+            "name": [
+              "soha420"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id897355848"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-31T01:23:22-07:00"
+        ],
+        "id": [
+          "3136170305"
+        ],
+        "title": [
+          "Fungere rigtig godt"
+        ],
+        "content": [
+          {
+            "_": "Overskueligt, flot design.",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Fungere rigtig godt</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Overskueligt, flot design.</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "5"
+        ],
+        "im:version": [
+          "2.3.0"
+        ],
+        "author": [
+          {
+            "name": [
+              "23 år fyr"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id553015026"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-30T23:04:24-07:00"
+        ],
+        "id": [
+          "3135752243"
+        ],
+        "title": [
+          "Ustabil og chrasher"
+        ],
+        "content": [
+          {
+            "_": "Appen er ustabil og chrasher",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Ustabil og chrasher</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Appen er ustabil og chrasher</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "2"
+        ],
+        "im:version": [
+          "2.3.0"
+        ],
+        "author": [
+          {
+            "name": [
+              "Frydendal-Oesten"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id166358961"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-30T10:08:49-07:00"
+        ],
+        "id": [
+          "3133792790"
+        ],
+        "title": [
+          "Ingen Touch ID på Ipad"
+        ],
+        "content": [
+          {
+            "_": "Fungere fint, men hvad kan mon årsagen være, at der ikke er Touch ID på Ipad app, når der er på Iphone?",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Ingen Touch ID på Ipad</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Fungere fint, men hvad kan mon årsagen være, at der ikke er Touch ID på Ipad app, når der er på Iphone?</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "4"
+        ],
+        "im:version": [
+          "2.3.0"
+        ],
+        "author": [
+          {
+            "name": [
+              "amp9999"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id152489970"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-29T09:28:44-07:00"
+        ],
+        "id": [
+          "3129683693"
+        ],
+        "title": [
+          "God, men med plads til forbedring."
+        ],
+        "content": [
+          {
+            "_": "Jeg er virkelig glad for Nordeas App, men jeg savner muligheden for at kunne tilgå samme info på PBS betalinger efter betalingen er sket, som før betalingen. Jeg savner også muligheden for at søge på eksempelvis dato, firmanavne, butikker og beløb, så man lynhurtigt kan finde en betaling istedet for at skulle scrolle igennem alle betalinger dag for dag.\nEllers rigtig godt arbejde.",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">God, men med plads til forbedring.</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Jeg er virkelig glad for Nordeas App, men jeg savner muligheden for at kunne tilgå samme info på PBS betalinger efter betalingen er sket, som før betalingen. Jeg savner også muligheden for at søge på eksempelvis dato, firmanavne, butikker og beløb, så man lynhurtigt kan finde en betaling istedet for at skulle scrolle igennem alle betalinger dag for dag.<br/>Ellers rigtig godt arbejde.</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "4"
+        ],
+        "im:version": [
+          "2.3.0"
+        ],
+        "author": [
+          {
+            "name": [
+              "Craciez"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id43855815"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-28T11:46:44-07:00"
+        ],
+        "id": [
+          "3125793179"
+        ],
+        "title": [
+          "Mangler"
+        ],
+        "content": [
+          {
+            "_": "Syntes det er ærgerligt at man ikke løbende kan de saldoen på kontoen, pr postering som på andre mobilbanker. Mangler generelt finish i udtrykket.",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Mangler</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Syntes det er ærgerligt at man ikke løbende kan de saldoen på kontoen, pr postering som på andre mobilbanker. Mangler generelt finish i udtrykket.</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "1"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "Bycamiu"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id216940945"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-26T01:35:51-07:00"
+        ],
+        "id": [
+          "3115704904"
+        ],
+        "title": [
+          "Virker dejlig overskuelig"
+        ],
+        "content": [
+          {
+            "_": "Appen er nem atbruge og alt er til at finde",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Virker dejlig overskuelig</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Appen er nem atbruge og alt er til at finde</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "5"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "Ditlel"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id358151186"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-22T12:39:31-07:00"
+        ],
+        "id": [
+          "3100454248"
+        ],
+        "title": [
+          "Ulogisk"
+        ],
+        "content": [
+          {
+            "_": "Det er sjældent man i første eller andet forsøg kommer til det man vil.",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Ulogisk</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Det er sjældent man i første eller andet forsøg kommer til det man vil.</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "1"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "steffenxxxx"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id891956142"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-22T09:50:12-07:00"
+        ],
+        "id": [
+          "3099993161"
+        ],
+        "title": [
+          "Nie podoba mi się, bo nie chce jej mieć, lecz muszę !!!"
+        ],
+        "content": [
+          {
+            "_": "Nie podoba mi się, ale póki co, chcąc tu mieszkać muszę mieć konto bankowe, a takiego wcale nie chce posiadać, jestem zwolennikiem obrotu gotówka, bo przy moich wydatkach uczestniczę tylko ja, a nie inwigilują mnie banki lub korporacje, wiec proszę mi więcej tak głupich pytań nie wysyłać, bo w tym kraju NIE MA WYBORU !",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Nie podoba mi się, bo nie chce jej mieć, lecz muszę !!!</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Nie podoba mi się, ale póki co, chcąc tu mieszkać muszę mieć konto bankowe, a takiego wcale nie chce posiadać, jestem zwolennikiem obrotu gotówka, bo przy moich wydatkach uczestniczę tylko ja, a nie inwigilują mnie banki lub korporacje, wiec proszę mi więcej tak głupich pytań nie wysyłać, bo w tym kraju NIE MA WYBORU !</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "1"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "Pan Adam"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id728817141"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-20T03:19:56-07:00"
+        ],
+        "id": [
+          "3090102114"
+        ],
+        "title": [
+          "Tip top"
+        ],
+        "content": [
+          {
+            "_": "Nemt,hurtigt og sikkert :-)",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Tip top</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Nemt,hurtigt og sikkert :-)</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "5"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "Ropass"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id198094390"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-16T05:50:41-07:00"
+        ],
+        "id": [
+          "3072544009"
+        ],
+        "title": [
+          "Mangler overskuelighed"
+        ],
+        "content": [
+          {
+            "_": "App’en er ikke overskuelig nok og “lækker” og let som fx Danske Banks.",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Mangler overskuelighed</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>App’en er ikke overskuelig nok og “lækker” og let som fx Danske Banks.</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "1"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "Helle Hedegaard"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id210900922"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-15T23:47:56-07:00"
+        ],
+        "id": [
+          "3071146345"
+        ],
+        "title": [
+          "Søgninger"
+        ],
+        "content": [
+          {
+            "_": "Mangler at kunne søge i mine poster",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Søgninger</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Mangler at kunne søge i mine poster</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "3"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "søgninger mangler"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id229872031"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-13T10:32:22-07:00"
+        ],
+        "id": [
+          "3059645370"
+        ],
+        "title": [
+          "Language"
+        ],
+        "content": [
+          {
+            "_": "App ia ok but where i can change language to english?",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Language</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>App ia ok but where i can change language to english?</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "4"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "Goldi82nd"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id704670789"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-13T05:37:37-07:00"
+        ],
+        "id": [
+          "3058623415"
+        ],
+        "title": [
+          "Virker næsten aldrig."
+        ],
+        "content": [
+          {
+            "_": "Er meget skuffet. Der er ofte fejl i appen.",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Virker næsten aldrig.</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Er meget skuffet. Der er ofte fejl i appen.</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "1"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "dannidany"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id334281047"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-12T13:01:26-07:00"
+        ],
+        "id": [
+          "3055491054"
+        ],
+        "title": [
+          "Nemt😀"
+        ],
+        "content": [
+          {
+            "_": "Med Nordeas mobil, har jeg styr på min økonomi😀",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Nemt😀</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Med Nordeas mobil, har jeg styr på min økonomi😀</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "5"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "Anmedelse"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id173596948"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-09T01:41:09-07:00"
+        ],
+        "id": [
+          "3039314096"
+        ],
+        "title": [
+          "for ringe"
+        ],
+        "content": [
+          {
+            "_": "Der er for få sorteringsmuligheder og ingen mulighed for en automatisk sortering af kategorier vedrørende betalinger. denne mulighed har mange andre banker",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">for ringe</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Der er for få sorteringsmuligheder og ingen mulighed for en automatisk sortering af kategorier vedrørende betalinger. denne mulighed har mange andre banker</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "1"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "Steenir"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id101510915"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-07T13:33:46-07:00"
+        ],
+        "id": [
+          "3032269434"
+        ],
+        "title": [
+          "Dårlig app"
+        ],
+        "content": [
+          {
+            "_": "Virkelig ringe app som er meget gammeldags og man mangler forbrugsoverblik som andre banker har. Ønsker af skifte bank pga af det for utroligt at Nordea ikke har fået det endnu.",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Dårlig app</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Virkelig ringe app som er meget gammeldags og man mangler forbrugsoverblik som andre banker har. Ønsker af skifte bank pga af det for utroligt at Nordea ikke har fået det endnu.</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "1"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "Amsisse"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id163751874"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-04T10:33:42-07:00"
+        ],
+        "id": [
+          "3017303980"
+        ],
+        "title": [
+          "The basic functionality works, but I’m def. not impressed!"
+        ],
+        "content": [
+          {
+            "_": "Basic functionality ok. Anything beyond that is wishful thinking! Would be nice with a more modern setup and functions",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">The basic functionality works, but I’m def. not impressed!</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Basic functionality ok. Anything beyond that is wishful thinking! Would be nice with a more modern setup and functions</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "1"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "thdtb"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id353216965"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-04T02:28:09-07:00"
+        ],
+        "id": [
+          "3015476951"
+        ],
+        "title": [
+          "Mangler udestående beløb"
+        ],
+        "content": [
+          {
+            "_": "Det en ganske fin app, men hvad jeg virkelig mangler er en opdateret måde at se hvor mange penge jeg har. Nogle gange kan der gå 1-3 dage før den opdatere beløbet. I andre bankers app har de det faktiske beløb og nedenunder udestående beløb på denne måde kan man hele tiden føle med i hvad man har og har brugt.\n\nJeg mangler også en mulighed for at kunne klikke på et betalt beløb og se detaljer",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Mangler udestående beløb</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Det en ganske fin app, men hvad jeg virkelig mangler er en opdateret måde at se hvor mange penge jeg har. Nogle gange kan der gå 1-3 dage før den opdatere beløbet. I andre bankers app har de det faktiske beløb og nedenunder udestående beløb på denne måde kan man hele tiden føle med i hvad man har og har brugt.<br/><br/>Jeg mangler også en mulighed for at kunne klikke på et betalt beløb og se detaljer</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "3"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "Anders T.L"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id877997495"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-03T07:35:39-07:00"
+        ],
+        "id": [
+          "3011678842"
+        ],
+        "title": [
+          "Næsten perfekt"
+        ],
+        "content": [
+          {
+            "_": "Mangler at kunne gå ind på posterne og se referencerne",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Næsten perfekt</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Mangler at kunne gå ind på posterne og se referencerne</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "4"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "s. hviid"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id386154355"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-03T05:23:16-07:00"
+        ],
+        "id": [
+          "3011111914"
+        ],
+        "title": [
+          "Mobilbank"
+        ],
+        "content": [
+          {
+            "_": "Det bedste der til dato\nEr opfundet nu man ik har posthuse og banker til det mere",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Mobilbank</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Det bedste der til dato<br/>Er opfundet nu man ik har posthuse og banker til det mere</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "5"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "MJ040670"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id297077443"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-02T09:51:30-07:00"
+        ],
+        "id": [
+          "3006960573"
+        ],
+        "title": [
+          "Gammeldags"
+        ],
+        "content": [
+          {
+            "_": "Designet er oldfashion og kedeligt.",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Gammeldags</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Designet er oldfashion og kedeligt.</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "2"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "khggyhkko"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id122689188"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-02T04:40:37-07:00"
+        ],
+        "id": [
+          "3005729279"
+        ],
+        "title": [
+          "Mobilbank"
+        ],
+        "content": [
+          {
+            "_": "Virker perfekt til vores temperament \n🧒🏻🧔🏼🌹",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Mobilbank</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Virker perfekt til vores temperament <br/>🧒🏻🧔🏼🌹</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "5"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "Jorn64"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id228324655"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-08-01T00:16:30-07:00"
+        ],
+        "id": [
+          "2999786872"
+        ],
+        "title": [
+          "Nemt"
+        ],
+        "content": [
+          {
+            "_": "Brug nærmest kun appen. Det er nemt og hurtig at logge på og bruge",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Nemt</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Brug nærmest kun appen. Det er nemt og hurtig at logge på og bruge</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "5"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "Strandsjov"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id117443198"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-07-30T06:54:49-07:00"
+        ],
+        "id": [
+          "2992048248"
+        ],
+        "title": [
+          "Mobil bank"
+        ],
+        "content": [
+          {
+            "_": "Meget nemt at bruge og lige ved hånden",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Mobil bank</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Meget nemt at bruge og lige ved hånden</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "5"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "Michael Maref"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id873846921"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-07-29T12:06:34-07:00"
+        ],
+        "id": [
+          "2988467193"
+        ],
+        "title": [
+          "Besværlig netbank"
+        ],
+        "content": [
+          {
+            "_": "Har i mange år brugt jyske banks netbank, den er SÅ meget nemmere at bruge. Det er enormt besværligt at skulle bruge sit nem ide kort så mange gange i løbet af en aften hvor man sætter regninger til betaling, overfører osv.",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Besværlig netbank</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Har i mange år brugt jyske banks netbank, den er SÅ meget nemmere at bruge. Det er enormt besværligt at skulle bruge sit nem ide kort så mange gange i løbet af en aften hvor man sætter regninger til betaling, overfører osv.</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "1"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "Nadialynge"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id873144234"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-07-29T01:54:13-07:00"
+        ],
+        "id": [
+          "2986438339"
+        ],
+        "title": [
+          "Mobilbank"
+        ],
+        "content": [
+          {
+            "_": "Hurtig og nem 👍",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Mobilbank</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Hurtig og nem 👍</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "5"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "mobil betalinger"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id872776938"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-07-28T21:28:20-07:00"
+        ],
+        "id": [
+          "2985483593"
+        ],
+        "title": [
+          "Fingeraftryk"
+        ],
+        "content": [
+          {
+            "_": "Kunne være rart at kunne bruge fingeraftryk, istedet for nøglekort, for at bekræfte betaling :)",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Fingeraftryk</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Kunne være rart at kunne bruge fingeraftryk, istedet for nøglekort, for at bekræfte betaling :)</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "3"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "The3Sin"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id681786111"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      },
+      {
+        "updated": [
+          "2018-07-28T10:05:40-07:00"
+        ],
+        "id": [
+          "2983471313"
+        ],
+        "title": [
+          "Rigtig god app"
+        ],
+        "content": [
+          {
+            "_": "Rigtig god app, nem og overskuelig",
+            "$": {
+              "type": "text"
+            }
+          },
+          {
+            "_": "<table border=\"0\" width=\"100%\">\n    <tr>\n        <td>\n            <table border=\"0\" width=\"100%\" cellspacing=\"0\" cellpadding=\"0\">\n                <tr valign=\"top\" align=\"left\">\n                    \n                    \n                    \t<td width=\"100%\">\n                    \n                        <b><a href=\"https://itunes.apple.com/dk/app/nordea-mobile-bank-denmark/id571242024?mt=8&uo=2\">Rigtig god app</a></b><br/>\n                        \n                        \n                        \n                        \n\n                        \n\n                       <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\">\n\t\t\t\t\t\t\n                        </font>\n                    </td>\n                </tr>\n            </table>\n        </td>\n    </tr>\n    <tr>\n        <td>\n            \n                <font size=\"2\" face=\"Helvetica,Arial,Geneva,Swiss,SunSans-Regular\"><br/>Rigtig god app, nem og overskuelig</font><br/>\n            \n            \n            \n        </td>\n    </tr>\n</table>\n",
+            "$": {
+              "type": "html"
+            }
+          }
+        ],
+        "im:contentType": [
+          {
+            "$": {
+              "term": "Application",
+              "label": "Application"
+            }
+          }
+        ],
+        "im:voteSum": [
+          "0"
+        ],
+        "im:voteCount": [
+          "0"
+        ],
+        "im:rating": [
+          "5"
+        ],
+        "im:version": [
+          "2.2.3"
+        ],
+        "author": [
+          {
+            "name": [
+              "Adls100"
+            ],
+            "uri": [
+              "https://itunes.apple.com/dk/reviews/id419344821"
+            ]
+          }
+        ],
+        "link": [
+          {
+            "$": {
+              "rel": "related",
+              "href": "https://itunes.apple.com/dk/review?id=571242024&type=Purple%20Software"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
