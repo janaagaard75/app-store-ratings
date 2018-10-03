@@ -13,7 +13,7 @@
         "ts-node/register"
       ],
       "args": [
-        "${workspaceFolder}/Main.ts"
+        "${workspaceFolder}/src/Main.ts"
       ]
     }
   ]
