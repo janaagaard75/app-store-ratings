@@ -5,7 +5,10 @@ import { Entry } from "./Reviews"
 import { EntryWrapper } from "./EntryWrapper"
 import { Reviews } from "./Reviews"
 
-type SortBy = "mostHelpful" | "mostRecent"
+enum SortBy {
+  mostHelpful,
+  mostRecent
+}
 
 class Main {
   public async start() {
@@ -13,7 +16,7 @@ class Main {
 
     const allReviews: Array<EntryWrapper> = []
     for (let page = 1; page <= 10; page++) {
-      const xmlReviews = await this.fetchReviews(nordeaMobileBankAppId, "mostRecent", page)
+      const xmlReviews = await this.fetchReviews(nordeaMobileBankAppId, SortBy.mostRecent, page)
       if (xmlReviews === undefined) {
         continue
       }
@@ -31,7 +34,7 @@ class Main {
     /** Integer from 1 to 10. */
     pageNumber: number
   ): Promise<Reviews | undefined> {
-    const reviewsUrl = `https://itunes.apple.com/dk/rss/customerreviews/id=${appId}/sortBy=${sortBy}/page=${pageNumber}/xml`
+    const reviewsUrl = `https://itunes.apple.com/dk/rss/customerreviews/id=${appId}/sortBy=${SortBy[sortBy]}/page=${pageNumber}/xml`
     const reviewsResponse = await fetch(reviewsUrl)
 
     if (reviewsResponse.status !== 200) {
