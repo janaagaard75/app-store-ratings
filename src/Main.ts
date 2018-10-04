@@ -13,12 +13,10 @@ class Main {
 
     const allReviews: Array<EntryWrapper> = []
     for (let page = 1; page <= 10; page++) {
-      // Skip page number 6 because the XML parser complains about an unsupported character (&) on that page.
-      if (page === 6) {
+      const xmlReviews = await this.fetchReviews(nordeaMobileBankAppId, "mostRecent", page)
+      if (xmlReviews === undefined) {
         continue
       }
-
-      const xmlReviews = await this.fetchReviews(nordeaMobileBankAppId, "mostRecent", page)
       const parsedReviews = this.flattern(xmlReviews.feed.entry)
       allReviews.push(...parsedReviews)
     }
@@ -32,7 +30,7 @@ class Main {
     sortBy: SortBy,
     /** Integer from 1 to 10. */
     pageNumber: number
-  ): Promise<Reviews> {
+  ): Promise<Reviews | undefined> {
     const reviewsUrl = `https://itunes.apple.com/dk/rss/customerreviews/id=${appId}/sortBy=${sortBy}/page=${pageNumber}/xml`
     const reviewsResponse = await fetch(reviewsUrl)
 
@@ -42,10 +40,10 @@ class Main {
 
     const xmlReviews = await reviewsResponse.text()
 
-    const promise = new Promise<Reviews>((resolve, reject) => {
+    const promise = new Promise<Reviews | undefined>((resolve, reject) => {
       const parsedReviews = parseString(xmlReviews, (error, result) => {
         if (error) {
-          reject(error)
+          resolve(undefined)
         }
 
         resolve(result as Reviews)
