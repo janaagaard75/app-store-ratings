@@ -13,8 +13,8 @@ export class EntryWrapper {
     return this.entry.content[0]._
   }
 
-  public get id(): string {
-    return this.entry.id[0]
+  public get id(): number {
+    return Number.parseInt(this.entry.id[0], 10)
   }
 
   public get rating(): number | undefined {

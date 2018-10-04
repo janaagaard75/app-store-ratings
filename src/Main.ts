@@ -14,17 +14,24 @@ class Main {
   public async start() {
     const nordeaMobileBankAppId = 571242024
 
+    const allSortBys = [SortBy.mostHelpful, SortBy.mostRecent]
+
     const allReviews: Array<EntryWrapper> = []
-    for (let page = 1; page <= 10; page++) {
-      const xmlReviews = await this.fetchReviews(nordeaMobileBankAppId, SortBy.mostRecent, page)
-      if (xmlReviews === undefined) {
-        continue
+    for (const sortBy of allSortBys) {
+      for (let page = 1; page <= 10; page++) {
+        const xmlReviews = await this.fetchReviews(nordeaMobileBankAppId, sortBy, page)
+        if (xmlReviews === undefined) {
+          continue
+        }
+        const parsedReviews = this.flattern(xmlReviews.feed.entry)
+        allReviews.push(...parsedReviews)
       }
-      const parsedReviews = this.flattern(xmlReviews.feed.entry)
-      allReviews.push(...parsedReviews)
     }
     console.log(`Number of reviews: ${allReviews.length}.`)
-    const csv = allReviews.map(review => review.csvLine).join("\n")
+    const csv = allReviews
+      .sort((a, b) => a.id - b.id)
+      // TODO: Filter out duplicates.
+      .map(review => review.csvLine).join("\n")
     console.info(`\n${csv}`)
   }
 
