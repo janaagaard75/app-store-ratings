@@ -8,7 +8,8 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "start": "yarn install && ts-node src/Main.ts"
+    "start": "yarn install && ts-node src/Main.ts",
+    "update-packages": "yarn upgrade && npx syncyarnlock --keepPrefix --save && yarn install"
   },
   "dependencies": {
     "node-fetch": "^2.6.6",
